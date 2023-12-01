@@ -30,9 +30,9 @@ The housing analysis was separated into the following folders:
 * Analysis: Contains the visualizations used for developing insights and presenting on the final report
 
 # Tools/Skills
-*Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy, Folium, Sklearn, Statsmodels)
-*Excel
-*Tableau
+* Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy, Folium, Sklearn, Statsmodels)
+* Excel
+* Tableau
 
 # Visualizations
 Final Presentation was created in [Tableau](https://public.tableau.com/views/KingCountyHousingSalesAnalysis_17014149627480/KingCountyHousingSalesAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
