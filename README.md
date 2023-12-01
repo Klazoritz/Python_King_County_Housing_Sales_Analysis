@@ -25,7 +25,7 @@ For plotting maps of King County in Python we used [Washington County GeoJSON](h
 # Folders
 The housing analysis was separated into the following folders:
 * Project Management: Contains the Project Brief
-* Data: Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively.
+* Data: Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. NOTE: This file has not been included
 * Scripts: Contains all the Python coding involved for the entire analysis process
 * Analysis: Contains the visualizations used for developing insights and presenting on the final report
 
