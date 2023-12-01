@@ -19,7 +19,7 @@ The dataset containted the following housing information:
 * Yr_built
 * Yr_renovated
 
-Source: This data set came from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data)
+Source: This data set came from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data).
 
 For plotting maps of King County in Python we used [Washington County GeoJSON](https://geo.wa.gov/datasets/wadnr::wa-county-boundaries/about)
 
